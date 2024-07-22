@@ -1,0 +1,105 @@
+# Copyright (c) 1993-1999 Microsoft Corp.
+#
+# Éste es un ejemplo de archivo HOSTS usado por Microsoft TCP/IP para Windows.
+#
+# Este archivo contiene las asignaciones de las direcciones IP a los nombres de
+# host. Cada entrada debe permanecer en una línea individual. La dirección IP
+# debe ponerse en la primera columna, seguida del nombre de host correspondiente.
+# La dirección IP y el nombre de host deben separarse con al menos un espacio.
+# 
+#
+# También pueden insertarse comentarios (como éste) en líneas individuales
+# o a continuación del nombre de equipo indicándolos con el símbolo "#"
+#
+# Por ejemplo:
+#
+#      102.54.94.97     rhino.acme.com          # servidor origen
+#       38.25.63.10     x.acme.com              # host cliente x
+
+127.0.0.1       localhost
+# Copyright (c) 1993-1999 Microsoft Corp.
+#
+# Éste es un ejemplo de archivo HOSTS usado por Microsoft TCP/IP para Windows.
+#
+# Este archivo contiene las asignaciones de las direcciones IP a los nombres de
+# host. Cada entrada debe permanecer en una línea individual. La dirección IP
+# debe ponerse en la primera columna, seguida del nombre de host correspondiente.
+# La dirección IP y el nombre de host deben separarse con al menos un espacio.
+# 
+#
+# También pueden insertarse comentarios (como éste) en líneas individuales
+# o a continuación del nombre de equipo indicándolos con el símbolo "#"
+#
+# Por ejemplo:
+#
+#      102.54.94.97     rhino.acme.com          # servidor origen
+#       38.25.63.10     x.acme.com              # host cliente x
+
+127.0.0.1       localhost       ME
+5.6.0.100       CUCUTA          cucuta          #Vanguard C£cuta
+90.2.1.100      GATEWAY         gateway
+90.2.17.1       DESARROLLO      desarrollo      #Servidor de Desarrollo
+90.2.17.3       TELEINFORMATICA teleinformatica #Controlador Secundario DIR.INFORMATICA
+90.2.18.1       PRODUCCION      produccion      #Servidor de Producci¢n
+90.2.22.1       SARH            rhumanas        #Servidor de Relaciones Humanas
+90.2.23.1       SIG2.SERVE      SIG     sig     sig2    #Servidor Base de Datos SIG
+90.2.24.1       CDTS            cdtpesos        #Servidor de Tesorer¡a Dir. General
+90.5.1.1        VICETEC         correo          #Servidor del Correo
+90.5.1.40       AS400           as/400
+90.5.1.50       STRATUS         stratus
+90.5.1.64       ETH3ES9000      eth3    9000    #Tarjeta de red Ethernet del ES9000
+90.5.1.100      ROUTER          router
+90.6.1.101      ANDINO          andino          #Cr‚dito Hipotecario Centro Andino
+91.1.1.60       SNALINKA        ES9000  es9000  #Puerto l¢gico IP del ES9000
+91.1.1.61       CCES9000        cces9000        #Salida de la Controladora de Comunicaciones del ES9000
+92.5.1.100      CALI            cali            #MP Router 6250 Sucursal Cali
+93.5.1.91       SUC.BARRANQUILLA  suc.barranquilla #Servidor Notes Sucursal Barranquilla
+94.5.1.91       SUC.MEDELLIN    suc.medellin    #Servidor Notes Sucursal Medellin
+95.5.1.91       SUC.BUCARAMANGA suc.bucaramanga #Servidor Notes Sucursal Bucaramanga
+190.5.1.90      DIR.GENERAL     dir.general     #Servidor Notes
+190.5.1.96      DIRGENERALMAIL1 dirgeneralmail1	#Servidor Notes
+190.5.1.97      DIRGENERALMAIL2 dirgeneralmail2	#Servidor Notes
+190.5.1.91      SUC.BOGOTA      suc.bogota      #Servidor Notes Sucursal Bogota 
+190.5.1.92      ZONA.CENTRAL    zona.central    #Servidor Notes Zona Central
+201.30.0.1      SBOGOTA1        SBOGOTA.SERVE   #Servidor Sucursal Bogot  Calle 72
+201.30.0.2      CARTERA         CARTERA.SERVE   #Servidor Cartera Sucursal Bogotá Calle 72
+201.32.1.100    CANDINO         candino         #Vanguard Centro Andino 5 Piso
+201.32.20.100   CANDINO2        candino2        #Vanguard Centro Andino 2 Piso
+201.32.30.1     SANMARTIN       sanmartin       #Servidor NT Cr‚dito San Mart¡n
+201.32.30.100   SMARTIN         smartin         #Vanguard San Mart¡n
+201.34.0.1      CONSUMO1        DAVIMASTERCARD  #Servidor de Centro de Cobranzas Calle 82
+201.73.32.100   SUMINISTROS     suministros     #Vanguard Bodega Alamos
+192.168.0.32    s_establec
+192.168.0.32    sestablec
+172.1.1.44	s_ter1_912
+172.1.1.186	s_microfilm
+172.1.1.186	smicrofilm
+172.1.1.212	web2000
+206.49.180.231  CIFIN.ASOBANCARIA.COM  		cifin.asobancaria.com
+10.1.0.6	Bizagi
+133.1.0.20	BF2PLTOFC.SRVCS.BANCAFE.INT
+10.1.1.102	BF2SRVOFC.SRVCS.BANCAFE.INT
+10.1.1.12	BF2SRVELC.SRVCS.BANCAFE.INT	
+10.1.1.101	BFPSRVDG.SRVCS.BANCAFE.INT	#BANCAFE Pruebas
+10.1.1.100	BFDSRVDG.SRVCS.BANCAFE.INT	#BANCAFE Desarrollo
+10.1.128.28	BFBSRVDG.SRVCS.BANCAFE.INT  	#BANCAFEB (Tarjetas/Contabilidad)
+10.1.1.102	BF2SRVDGR.SRVCS.BANCAFE.INT 	#BANCAFE2 (Bankvision)
+10.1.1.154	BFHSRVDG.SRVCS.BANCAFE.INT	#BANCAFE ALTA  Disponibilidad (BancafeH)
+10.1.1.102      BANCAFE2
+128.1.100.3     BANCAFEP
+10.135.10.10	seguros.mti.com.co
+90.4.5.86   	www.davivienda.com
+90.4.70.71   	linea.davivienda.com 
+90.4.5.90	portalempresas.davivienda.com 
+90.4.5.108	www.daviplata.com	daviplata.com
+190.27.225.233  www.rbm.test
+90.4.2.1 	wpslab2.davivienda.loc
+90.4.2.1	davivalores.davivienda.com
+#90.4.2.1	fidudavivienda.davivienda.com
+90.4.2.3	davivalores.davivienda.loc
+90.4.20.186 	fidudavivienda.davivienda.com
+#90.4.2.3	fidudavivienda.davivienda.loc
+#90.4.5.48 	transacciones.davivienda.com  #Ambiente 1 Glasfish
+#90.4.3.245 	transacciones.davivienda.com #Ambiente 2 Glasfish
+#90.4.1.175	transacciones.davivienda.com #Ambiente 1 Weblogic
+90.4.1.176	transacciones.davivienda.com #Ambiente 2 Weblogic
