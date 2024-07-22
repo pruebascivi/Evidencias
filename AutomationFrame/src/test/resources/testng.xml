@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Mobile Tests Suite">
+    <test name="Android Tests">
+        <parameter name="platformName" value="android"/>
+        <classes>
+            <class name="mobile.MobileTest"/>
+        </classes>
+    </test>
+    <test name="iOS Tests">
+        <parameter name="platformName" value="ios"/>
+        <classes>
+            <class name="mobile.MobileTest"/>
+        </classes>
+    </test>
+</suite>
